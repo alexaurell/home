@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<HTML>
+<HEAD>
+	<META http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<!-- Titel på sidan -->
+
+	<TITLE>Alexander Aurell</TITLE>
+	<style type="text/css">
+		a:link {color: #1954a6; text-decoration: none; font-family: verdana;}
+		a:visited {color: #1954a6; text-decoration: none; font-family: verdana;}
+		a:hover {color: maroon; text-decoration: none; font-family: verdana;}
+		p.list {text-align: justify; text-indent:-20pt; margin-left:20pt;
+		margin-top:0pt; margin-bottom:0pt; font-family: verdana; font-size:18px}
+		p.toplist {text-align: justify; text-indent: -20pt; margin-left: 20pt;
+		margin-top:6pt; margin-bottom:0pt; font-family: verdana; font-size:18px}
+		p {text-align: justify; margin-bottom: 12pt; font-family: verdana;}
+	</style>
+
+</HEAD>
+
+<body bgcolor="#ffffff" style="margin-top: 1px;">
+
+<table cellspacing="0" cellpadding="0" align="center" border="0">
+	<tbody>
+		<tr>
+			<td>
+				<img height="13" alt="" src="http://www.math.kth.se/matstat/images/toprut.gif">
+				<br>
+			</td>
+		</tr>
+		<tr>
+			<td align="right" style="background-color: rgb(178, 179, 181);">
+				<img src="http://www.math.kth.se/matstat/images/dot_blank.gif" height="13" width="0" alt="">
+				<a href="http://www.math.kth.se/inste.html" style="font-family: verdana; font-weight: bold; font-size: 10px; color: white; text-decoration: none;">
+					KTH Mathematics  
+				</a>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table align="center" width="634" cellpadding="16" style="border-style: solid; border-color: silver; border-width: 1px 1px 0px; margin-top: 10px; font-family: verdana; font-size: 14px; color: black;">
+	<tbody>
+		<tr>
+			<td>
+				<font style="font-size: 30px; ">
+					Alexander Aurell
+				</font>
+				<br> 
+				<p></p>
+				<font style="font-size: 14px;">
+					I am a Ph.D. candidate in applied mathematics at the Royal Institute of Technology since October 2014. 
+					My research interest is in the area of mean-field control theory, in particular stochastic models for crowd dynamics.
+					My supervisor is is Professor 
+					<a href="https://people.kth.se/~boualem/">
+					Boualem Djehiche
+					</a>
+					and my co-supervisor is Professor
+					<a href="https://people.kth.se/~hu/">
+					Xiaoming Hu.
+					</a>
+				</font>
+				<br> 
+				<p></p>
+				<hr>
+				<p></p>
+				<p class="list">
+					<a href="Courses/courses.html">
+						Courses
+					</a>
+				</p>
+				<p class="list">
+					<a href="Research/research.html">
+						Research
+					</a>
+				</p>
+				<p class="list">
+					<a href="Teaching/teaching.html">
+						Teaching
+					</a>
+				</p>
+				<p></p>
+				<hr>
+				<p></p>
+				<p class="list">
+					<a href="https://www.math.kth.se/matstat/finance/financelab/index.html" target="blank">
+					KTH Finance Lab
+					</a>
+				</p>
+				<p class="list">
+					<a href="https://www.kth.se/social/home/personal-menu/me/" target="blank">
+						KTH Mina Sidor
+					</a>
+				</p>
+				<p class="list">
+					<a href="http://www.math.kth.se/~aaurell/misc.html">
+						Some links
+					</a>
+				</p>
+				<p></p>
+				<hr>
+				<p></p>
+				<p class="list">
+					<a href="http://www.math.kth.se/matstat/" target="blank">
+						Division of Mathematical Statistics
+					</a>
+				</p>
+				<p class="list">
+					<a href="http://www.math.kth.se/optsyst/eng-index.html" target="blank">
+						Division of Optimization and Systems Theory
+					</a>
+				</p>
+				<p></p>
+				<hr>
+				<p>
+				<p></p>
+				Address:<br>
+				Department of Mathematics<br>
+				Royal Institute of Technology<br>
+				SE-100 44 Stockholm<br>
+				Sweden<br>
+				E-mail: aaurell at kth dot se<br>
+				Office: Room 3747<br>
+				Phone: +46-8-790 71 36<br>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<table align="center" border="0" cellpadding="0" style="margin-top: 10px;">
+	<tbody>
+		<tr>
+			<td>
+				<img src="http://www.math.kth.se/matstat/images/botten.jpg" alt="">
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0" width="634" cellspacing="0" cellpadding="0" align="center">
+	<tbody>
+		<tr>
+			<td align="right" width="634" valign="top" style="font-family: verdana; color: silver; font-weight: bold; font-size: 10px;">
+				Published by: Alexander Aurell<br>
+				Updated: 14-11-2018<br>
+				<br / ><small></small>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+</body>
+</html>
